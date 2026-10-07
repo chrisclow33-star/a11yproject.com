@@ -1181,6 +1181,12 @@
 			"url": "https://github-a11y-stats.netlify.app/"
 		},
 		{
+			"title": "AccessLens",
+			"description": "An automated accessibility scanner: paste a page URL and it runs the WCAG 2.2 A and AA rule set in a real headless browser, then writes a plain-English report — issues grouped by severity, the success criterion each breaks, the markup fix, and sample offending elements. The scan and summary report are free with no sign-up; a one-time payment unlocks the complete element-by-element work list and a non-expiring link. Automated scanning finds roughly a third of real accessibility problems, so reports are a starting point, not proof of conformance.",
+			"additional": "AccessLens",
+			"url": "https://a7ba2c9f8e51600b668cfcbbb6ecb648.ctonew.app/"
+		},
+		{
 			"title": "AccessLint",
 			"description": "AccessLint is a GitHub App that finds accessibility issues in your pull requests.",
 			"additional": "AccessLint",
